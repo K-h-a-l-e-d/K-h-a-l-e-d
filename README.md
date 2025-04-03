@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khaled</h1>
-<h3 align="center"> ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-  ![images](https://github.com/user-attachments/assets/7da7245e-bd9f-471b-b0fd-9c297e970738) Junior Flutter Developer | 📱 Mobile App Enthusiast | ⚡ Embedded C/C++ | 🚀 Tech Explorer |💡 Lifelong Learner</h3>
+<h3 align="center"> <img src="https://github.com/user-attachments/assets/7da7245e-bd9f-471b-b0fd-9c297e970738" width="20"/> Junior Flutter Developer | 📱 Mobile App Enthusiast | ⚡ Embedded Software C/C++ | 🚀 Tech Explorer |💡 Lifelong Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-h-a-l-e-d&label=Profile%20views&color=0e75b6&style=flat" alt="k-h-a-l-e-d" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k-h-a-l-e-d" alt="k-h-a-l-e-d" /></a> </p>
 
 - 💬 Ask me about **Flutter & Embedded Software**
 
@@ -21,3 +18,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-h-a-l-e-d&show_icons=true&locale=en" alt="k-h-a-l-e-d" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-h-a-l-e-d&" alt="k-h-a-l-e-d" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-h-a-l-e-d&label=Profile%20views&color=0e75b6&style=flat" alt="k-h-a-l-e-d" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k-h-a-l-e-d" alt="k-h-a-l-e-d" /></a> </p>
