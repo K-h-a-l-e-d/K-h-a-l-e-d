@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khaled</h1>
-<h3 align="center">📱Junior Flutter Developer | 📱 Mobile App Enthusiast | ⚡ Embedded C/C++ | 🚀 Tech Explorer |💡 Lifelong Learner</h3>
+<h3 align="center">![images](https://github.com/user-attachments/assets/7da7245e-bd9f-471b-b0fd-9c297e970738) Junior Flutter Developer | 📱 Mobile App Enthusiast | ⚡ Embedded C/C++ | 🚀 Tech Explorer |💡 Lifelong Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-h-a-l-e-d&label=Profile%20views&color=0e75b6&style=flat" alt="k-h-a-l-e-d" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k-h-a-l-e-d" alt="k-h-a-l-e-d" /></a> </p>
 
-- 💬 Ask me about **Flutter, Embedded Software**
+- 💬 Ask me about **Flutter & Embedded Software**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
