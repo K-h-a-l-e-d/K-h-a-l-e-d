@@ -2,9 +2,6 @@
 <h3 align="center"> <img src="https://github.com/user-attachments/assets/7da7245e-bd9f-471b-b0fd-9c297e970738" width="20"/> Junior Flutter Developer | 📱 Mobile App Enthusiast | ⚡ Embedded Software C/C++ | 🚀 Tech Explorer |💡 Lifelong Learner</h3>
 
 
-
-- 💬 Ask me about **Flutter & Embedded Software**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/khaled-alyyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khaled-alyyy/" height="30" width="40" /></a>
