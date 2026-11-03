@@ -9,7 +9,7 @@
 
 ![Status](https://img.shields.io/badge/Open%20to%20Opportunities-0096C7?logo=github&logoColor=white)
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/khaled-alyyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khaled-alyyy/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khaled-alyyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khaled-alyyy/" height="30" width="40" /></a>
 </div>
 
 ## 🛠️ Toolbox
